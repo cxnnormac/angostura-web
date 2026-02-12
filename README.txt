@@ -1,0 +1,1 @@
+A minimal personal portfolio site for showcasing skills and projects. It includes a hero section with name and photo, an about me, a projects grid (card-style panes), skills list, and contact links (email, LinkedIn, GitHub). Built with plain HTML and CSS, with an optional Node.js static file server for local development.
